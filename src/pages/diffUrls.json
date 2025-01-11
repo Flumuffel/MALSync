@@ -1,7 +1,4 @@
 {
-  "0.10.0": {
-    "iframe": []
-  },
   "0.10.1": {
     "iframe": [
       "*://*.mixdrop.sx/e/*",
@@ -95,6 +92,28 @@
       "*://oneupload.to/*",
       "*://player.vimeo.com/*",
       "*://rumble.com/embed/*"
+    ]
+  },
+  "0.11.0": {
+    "Anime365": [
+      "*://smotret-anime.net/catalog/*"
+    ],
+    "Voiranime": [
+      "*://v2.voiranime.com/*",
+      "*://v3.voiranime.com/*",
+      "*://v4.voiranime.com/*",
+      "*://v5.voiranime.com/*"
+    ],
+    "iframe": [
+      "*://smotret-anime.net/translations/embed/*",
+      "*://yugenani.me/e/*",
+      "*://yugen.to/e/*",
+      "*://yugenanime.ro/e/*",
+      "*://yugenanime.tv/e/*",
+      "*://api.animeflix.live/*",
+      "*://api.animeflix.dev/*",
+      "*://*.animeflix.ci/player?*",
+      "*://doflix.net/*"
     ]
   }
 }
